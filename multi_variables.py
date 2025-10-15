@@ -1,0 +1,8 @@
+# a,b,c=("Orange","Banana","Mango")
+# print(a)
+# print(b)
+# print(c)
+a=b=c=("Orange")
+print(a)
+print(b)
+print(c)
